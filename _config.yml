@@ -30,7 +30,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  kahoTT.github.com
 
 # Build settings
-theme: Minima
+# theme: Minima
+theme: Feeling Responsive
 plugins:
   - jekyll-feed
 
