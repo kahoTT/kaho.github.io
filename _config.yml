@@ -33,7 +33,7 @@ urlimg: 'https://kahoTT.github.io/images/'
 
 # Build settings
 # theme: Minima
-remote_theme: Phlow/feeling-responsive
+remote_theme: minima
 plugins:
   - jekyll-feed
 
